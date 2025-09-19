@@ -8,7 +8,7 @@ const CORS = {
   "Access-Control-Allow-Headers": "Content-Type, Authorization",
 };
 
-const GITHUB_REPO = "dickypagesdev/server";
+const GITHUB_REPO = "dickyvisa/server";
 const FILE_PATH   = "autoUpdateAllJuz.json";
 const BRANCH      = "main";
 
